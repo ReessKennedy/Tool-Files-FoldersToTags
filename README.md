@@ -1,5 +1,7 @@
 # FoldersToTagsScript
 
+[Github Link](https://github.com/ReessKennedy/FoldersToTagsScript)
+
 ## What ⚡
 Scans a directory for all markdown files in all folders and subfolders and automatically writes tags to the top of each files based on the file's current folder location. 
 ## Why 🤷‍♂️
